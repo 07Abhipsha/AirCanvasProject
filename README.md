@@ -1,7 +1,7 @@
 # AirCanvasProject
 Air Canvas Project: This is a project based on Machine Learning.
 Requirements: python3 , numpy , opencv
-How it works:
+# How it works:
 You can draw anything on your screen with your finger moving in the air.
 This will track your finger(specifically a particular color which acts as a bead). 
 When you move your finger in air, your web cam will capture the motion and produce it on the screen.
